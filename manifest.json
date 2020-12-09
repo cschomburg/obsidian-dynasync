@@ -1,0 +1,10 @@
+{
+  "id": "dynasync",
+  "name": "DynaSync",
+  "version": "0.1",
+  "minAppVersion": "0.9.12",
+  "description": "Sync Dynalist with Obsidian",
+  "author": "cschomburg",
+  "authorUrl": "https://github.com/cschomburg/obsidian-dynasync",
+  "isDesktopOnly": false
+}
